@@ -22,7 +22,7 @@ Abaixo como cada página deve ser criada e estruturada.
 
 ### Estrutura das páginas
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
+Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `index.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
 
 ![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
 
